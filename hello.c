@@ -1,3 +1,2 @@
-#include <stdio.h>
-
-int main(){printf("Hello wordl!") return 0;}
+void drukuj();
+int main() { drukuj(); return 0;}
